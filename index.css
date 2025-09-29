@@ -1,0 +1,43 @@
+html, body{
+  margin: 0px;
+  padding: 0px;
+}
+#header{
+    background-color: rgb(244,174,0);
+    height: 100px;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+}
+h2{
+    padding-left: 200px;
+}
+#img_con{
+  background-color: black;
+  width: 150px;
+  display: block;
+  float: left;
+
+}
+img{
+  width: 150px;
+}
+#intro{
+  float: right;
+  background-color: blue;
+  display: block;
+  height: 450px;
+  width: 1200px;
+
+}
+/*#footer{
+  background-color: black;
+  height: 200px;*
+
+}
